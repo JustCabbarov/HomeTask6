@@ -77,7 +77,7 @@ namespace Home_Task1
 
         //     return Digit && SpecialChar;
         //}
-        #endregion
+        #endregion 
 
 
 
@@ -150,7 +150,7 @@ namespace Home_Task1
         //        }
         //    }
         //    Console.WriteLine(resulte);
-        #endregion
+            #endregion
 
 
 
@@ -184,11 +184,12 @@ namespace Home_Task1
 
 
 
+
+
+        
 
 
     }
-
-
 }
 
 
